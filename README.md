@@ -6,7 +6,6 @@
 - 🔣 My favourite language is **JavaScript** but I am good at 🐍**Python** and 🍵**Java**
 - 🤞 Apart from doing web development, I try my hand at **Data Analytics and Data Science** on ***[Kaggle](https://kaggle.com)***.
 - 🎓 I graduated from [Vellore Institute of Technology](https://vit.ac.in) in 2022.
-- 🧑‍🏭 I am working as a **Frontend Engineer** at [BankBuddy.ai](https://bankbuddy.ai)
 - 🧠 Ask me anything about **Web Development**, **ReactJS**, **JS Design Patterns**, **JS frameworks and tools**, **Data Visualization** and **Computer Science**.
 - ☁️ I am currently learning **Cloud Computing** and **Data Engineering**. I use ***[Azure](https://azure.com)*** instead of ***[AWS](https://aws.amazon.com)*** if you wanted to know.😜  
 
@@ -55,9 +54,7 @@ I spend most of my time reading articles on **[Medium](https://medium.com)** abo
 
 ## Contact me on 📞
 1. ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/varun-guttikonda-675530198/)
-2. ![Kaggle](https://kaggle.com/static/images/favicon.ico) [Kaggle](https://www.kaggle.com/varunguttikonda)
-3. ![leetcode](https://assets.leetcode.com/static_assets/public/icons/favicon-16x16.png) [LeetCode](https://leetcode.com/sam_sepiol2000/)
-4. ✉️ [Email](mailto:varunguttikonda8906@gmail.com)
+2. ✉️ [Email](mailto:varunguttikonda8906@gmail.com)
 
 You've reached the end. That is all about me🙏  
 
